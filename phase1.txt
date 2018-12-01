@@ -6,3 +6,12 @@ thor-hemsworth
 hulk-mark
 black widow-johansson
 hawkeye-renner
+---------------
+
+adding phase 2:-
+
+falcon
+antman
+spiderman
+dr strange
+black panther
