@@ -6,3 +6,12 @@ thor
 hulk
 black widow
 hawkeye
+---------------
+
+adding phase 2:-
+
+falcon
+antman
+spiderman
+dr strange
+black panther
