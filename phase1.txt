@@ -1,11 +1,11 @@
 this is phase 1:-
 
-iron man
-captain america
-thor
-hulk
-black widow
-hawkeye
+iron man-rdj
+captain america-evans
+thor-hemsworth
+hulk-mark
+black widow-johansson
+hawkeye-renner
 ---------------
 
 adding phase 2:-
